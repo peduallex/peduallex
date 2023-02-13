@@ -17,8 +17,7 @@ Solido conhecimento em Docker, Cloud, Newrelic e Grafana
 
 ---- 
 
-Graduações: Ciencias da Computação
-            Analise e Desenvolvimento de sistemas
+Graduações: Ciencias da Computação e Analise e Desenvolvimento de sistemas
 
 Pos: Matematica Computacional
 
