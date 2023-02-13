@@ -15,7 +15,9 @@ Atuando como Devops e sustentação de projetos em legado; Versionamento, CI/CD.
 Projetos como BI e Webservice, na leitura de guias iss e icms com php.
 Solido conhecimento em Docker, Cloud, Newrelic e Grafana
 
+Linkedin:
 
+https://www.linkedin.com/in/alex-duarte-pedro-30362255/
 
 <!---
 peduallex/peduallex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
