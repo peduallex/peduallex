@@ -15,6 +15,17 @@ Atuando como Devops e sustentação de projetos em legado; Versionamento, CI/CD.
 Projetos como BI e Webservice, na leitura de guias iss e icms com php.
 Solido conhecimento em Docker, Cloud, Newrelic e Grafana
 
+---- 
+
+Graduações: Ciencias da Computação
+            Analise e Desenvolvimento de sistemas
+
+Pos: Matematica Computacional
+
+Mestrado: Ciência de Dados e Inteligência Artificial - Detecção de doencas neurais com IA e Redes Neurais
+
+----
+
 Linkedin:
 
 https://www.linkedin.com/in/alex-duarte-pedro-30362255/
