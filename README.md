@@ -1,4 +1,4 @@
-Ola, me Chamo Alex Duarte Pedro
+Ola, me Chamo Alex
 
 Sou Arquiteto de Soluções, Aplicação e Dados | Tech Lead | Gerente de Desenvolvimento | Python | Java | PHP | Gestão TI | Blockchain | Data Science | Mentoria em dados | Head
 
